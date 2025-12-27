@@ -2,18 +2,18 @@
 title: Welcome
 ---
 
-I'm **Jaweria Amjad** -- researcher, mother, and a woman designing her next chapter with intention.
+I'm Jaweria — scientist, mother, woman figuring out what comes next.
 
-I hold a PhD from UCL, completed a postdoc at the Gatsby Computational Neuroscience Unit, and now build AI systems in industry. I've done the checklist. Now I'm doing something more interesting: **choosing what comes next**.
+I spent 15 years in academia studying communications, then AI, then using it to understand behavior. This year I moved to corporate. I love learning and I'm not afraid to be the dumbest person in the room.
 
 ---
 
 ## What this space is about
 
-This is where I think out loud about the intersection of **career**, **motherhood**, **money**, and **meaning** — for women who are done following scripts and ready to write their own.
+This site is where I think out loud about ambition after achievement, midlife as a design problem, and building a life that's actually yours. 
 
-I explore:
 
+I write about:
 - [[themes/after-the-checklist|After the Checklist]] — what opens up when you stop chasing and start choosing
 - [[themes/ambition-and-anxiety|Ambition & Anxiety]] — upgrading from survival mode to intentional drive
 - [[themes/motherhood-with-intention|Motherhood with Intention]] — raising steady kids in an unsteady world
@@ -28,7 +28,7 @@ I'm not here to commiserate. I'm here to **build**.
 
 Clear thinking. Honest reflection. Forward motion.
 
-If you're a woman with credentials, responsibilities, and the growing realization that you get to decide what success looks like now — welcome. You're in the right place.
+If you're asking some version of: *Now what?* — welcome. You're in the right place.
 
 → **[[start-here|Start here]]** if you're new  
 → **[[about|More about me]]**  
