@@ -21,7 +21,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        title: "Stalemate",
+        title: "Oregano",
         header: "Josefin Sans",
         body: "Source Sans Pro",
         code: "JetBrains Mono",
