@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "jaweria amjad",
+    pageTitle: "Jaweria Amjad",
     pageTitleSuffix: " | Ambition, Motherhood & Agency",
     enableSPA: true,
     enablePopovers: true,
@@ -21,6 +21,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
+        title: "Stalemate",
         header: "Josefin Sans",
         body: "Source Sans Pro",
         code: "JetBrains Mono",

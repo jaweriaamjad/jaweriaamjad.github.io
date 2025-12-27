@@ -1,10 +1,8 @@
 @use "./base.scss";
 
-// Custom styling for site title (script font)
+// Custom styling for site title
 .page-title {
   font-family: var(--titleFont) !important;
-  font-size: 2.8rem !important;
+  font-size: 2.5rem !important;
   font-weight: 400;
-  letter-spacing: 0.01em;
-  white-space: nowrap;
 }
