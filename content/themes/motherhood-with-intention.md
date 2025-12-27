@@ -8,59 +8,41 @@ tags:
 
 # Motherhood with Intention
 
-*What we inherit. What we pass on.*
+*Raising grounded kids while building an ambitious life.*
 
 ---
 
-I don't want my children to inherit my anxiety-driven ambition.
+I'm raising two children. I'm also building a career, learning about wealth, and creating content. These aren't in conflict — they inform each other.
 
-I want them to inherit a **regulated nervous system**.
-
-This single shift in framing has changed how I think about parenting, success, and what it means to raise children in a chaotic world.
+The question isn't *motherhood or ambition*. It's: **What kind of life am I modeling?**
 
 ---
 
-## The inheritance question
+## What I want them to inherit
 
-Every parent transmits more than genes. We transmit:
-- Our relationship with rest and achievement
-- Our capacity to tolerate uncertainty
-- Our emotional vocabulary
-- Our nervous system patterns
+Not my credentials. Not my achievements.
 
-Children don't learn from what we say. They learn from what we **embody**. They absorb our calm — or our chaos.
+I want my children to inherit:
+- A **regulated nervous system** — the ability to stay steady in uncertainty
+- **Agency** — knowing they can shape their circumstances
+- **Curiosity** — the confidence to explore without needing to be right
+- **Choice** — the freedom to define success for themselves
 
-This is both terrifying and liberating. Terrifying because it means my healing work is their inheritance. Liberating because **I don't have to solve the world's problems — I just have to become more regulated myself**.
+These aren't taught through lectures. They're absorbed through proximity. Which means my own growth is part of their inheritance.
 
 ---
 
-## Against checklist parenting
+## Beyond checklist parenting
 
-I was raised with a checklist. Good grades. Good behavior. Good outcomes.
-
-The intentions were loving. The execution created anxiety.
+I was raised with clear metrics: grades, behavior, outcomes. The intentions were good. But metrics without meaning create anxiety.
 
 I'm trying something different:
-- Fewer performance metrics, more presence
-- Less "what did you achieve today," more "how did you feel today"
-- Teaching them that rest is not laziness
-- Modeling that uncertainty is survivable
+- Presence over performance tracking
+- Emotional vocabulary alongside academic skills
+- Modeling that rest is strategic, not lazy
+- Showing them what it looks like to build something you care about
 
-This isn't permissive parenting. It's **intentional parenting** — choosing what values to transmit, rather than defaulting to the ones I inherited.
-
----
-
-## The cultural layer
-
-For women from South Asian backgrounds, motherhood carries particular weight.
-
-We are often expected to:
-- Sacrifice without acknowledgment
-- Produce accomplished children as proof of our value
-- Manage households, careers, and emotional labor simultaneously
-- Do all of this gracefully, without complaint
-
-I honor the sacrifices of the women before me. But I'm allowed to parent differently. **Honoring tradition doesn't mean repeating it unconsciously.**
+This isn't permissive parenting. It's **intentional parenting** — choosing what values to transmit rather than defaulting to the ones I received.
 
 ---
 
@@ -68,22 +50,21 @@ I honor the sacrifices of the women before me. But I'm allowed to parent differe
 
 Under this theme, I write about:
 
-- Emotional inheritance and how to interrupt harmful patterns
-- Parenting in an anxious world
-- Balancing ambition and presence
-- What I want my children to remember
+- Raising kids while pursuing ambitious goals
+- What children actually absorb from us
+- Breaking cycles without rejecting heritage
+- The intersection of personal growth and parenting
 
 ---
 
 ## Related writing
 
-*Essays exploring this theme will be linked here as I write them.*
+*Essays exploring this theme will appear here.*
 
 ---
 
 ## Connected themes
 
-- [[ambition-and-anxiety|Ambition & Anxiety]] — the pattern I'm interrupting
-- [[after-the-checklist|After the Checklist]] — the script I won't pass on
-- [[midlife-reorientation|Midlife Reorientation]] — modeling intentional living
-
+- [[ambition-and-anxiety|Ambition & Anxiety]] — modeling regulated drive
+- [[after-the-checklist|After the Checklist]] — giving them freedom to write their own
+- [[midlife-reorientation|Midlife Reorientation]] — showing them what intentional living looks like

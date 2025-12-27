@@ -4,33 +4,19 @@ title: About
 
 # About Me
 
-I grew up in Pakistan with a checklist handed to me before I could question it.
+I grew up in Pakistan with a clear roadmap: education, marriage, children, career. I followed it — not blindly, but deliberately. I wanted to see what was on the other side.
 
-*Finish your studies. Get married. Have children. Excel in your career. Aim for the stars — financial independence alone isn't enough.*
-
-Maybe it wasn't all external. My personality had something to do with taking these things seriously. Either way, I did it. Allah was extremely kind. But I battled extreme anxiety and imposter syndrome along the way.
-
-The goal was to achieve everything, and then life would make sense. Life would get easy.
+Now I'm here. And the view is better than I expected.
 
 ---
 
-## The reality
-
-Life doesn't get easy.
-
-We live in a world of constant wars, wealth inequality, and declining tolerance. Raising children in this climate is hard. And I don't want to raise mine with the same expectations I inherited.
-
-I want them to inherit a **regulated nervous system**. Not the anxiety-driven ambition that propelled me. I want them to have **choice** — real choice — about what matters.
-
----
-
-## The credentials (if you need them)
+## The credentials
 
 - **PhD** in Machine Learning and Signal Processing, University College London
-- **Postdoctoral Research** at the Gatsby Computational Neuroscience Unit — exploring the intersection of neuroscience and deep learning
-- **AI Research Engineer** at Zellis, developing testing frameworks for specialized AI systems
+- **Postdoctoral Research** at the Gatsby Computational Neuroscience Unit
+- **AI Research Engineer** at Zellis, building testing frameworks for production AI systems
 
-I graduated from some of the best places in the world. But credentials don't automatically translate to abundance, peace, or clarity.
+I earned these. They opened doors. And now I'm using that foundation to build something that's fully mine.
 
 ---
 
@@ -38,27 +24,36 @@ I graduated from some of the best places in the world. But credentials don't aut
 
 I turn 40 next year.
 
-I'm at the cusp of achieving everything I set out to — and finally understanding what I actually want. How to gain financial independence in a way where I'm not just trading time for money. How to build something that compounds.
+I've reached the point where I understand how the game works — career trajectories, financial systems, the difference between earning and building wealth. More importantly, I've developed the clarity to know what I actually want.
 
-I've already started: I work at a place that doesn't require me to come in every day. I'm learning to design the next season of my life, rather than follow a script someone else wrote.
+I work in a role that gives me flexibility. I'm learning to create income that doesn't require trading all my time. I'm raising two kids with intention, not anxiety. And I'm building a public presence around ideas that matter to me.
 
----
-
-## What this space is for
-
-I write for women in midlife who did everything they were told would lead to success — **education, marriage, children, career** — and are now asking harder questions about peace, money, and meaning.
-
-Through reflections on work, motherhood, culture, and financial independence, I explore how to build a life that is **ambitious without being anxious**, and **grounded without being small**.
+This isn't a pivot born from crisis. It's an expansion born from **capacity**.
 
 ---
 
-## Connect
+## What I'm building here
 
-I'm building in public. You can find me on:
+I write for women in midlife who have accomplished plenty and are now asking: *What do I want to build next?*
 
-- TikTok (coming soon)
-- Instagram (coming soon)
+Not from exhaustion. Not from regret. From **clarity**.
+
+Through reflections on work, motherhood, culture, and money, I explore what it means to live ambitiously without living anxiously — to be driven and grounded at the same time.
+
+---
+
+## The support system
+
+I have an incredible sister who has been my partner through everything. Building something meaningful is easier when you're not doing it alone. I don't take that for granted.
+
+---
+
+## Let's connect
+
+I'm building in public. Find me on:
+
+- TikTok (launching soon)
+- Instagram (launching soon)  
 - [LinkedIn](https://linkedin.com/in/jaweriaamjad)
 
-Or explore this site — follow the threads, trust your curiosity.
-
+Or explore this site. Follow the threads. See where they lead.

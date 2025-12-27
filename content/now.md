@@ -2,7 +2,7 @@
 title: Now
 ---
 
-# What I'm Focused On Now
+# What I'm Building Now
 
 *Last updated: December 2024*
 
@@ -10,31 +10,33 @@ title: Now
 
 ## Work
 
-I'm an AI Research Engineer at Zellis, building testing frameworks for specialized chatbots in the HR and workforce management space. It's applied work — less theoretical than my PhD or postdoc — but deeply practical. I'm learning what it means to make AI systems reliable in production, not just impressive in demos.
+AI Research Engineer at Zellis, developing testing frameworks for specialized chatbots. It's applied, production-focused work — exactly where theory meets reality. I'm learning what makes AI systems actually reliable, not just impressive.
 
-## Building in public
+## This site
 
-This website is my first step toward content creation. I'm learning to articulate ideas that have been forming for years — about ambition, motherhood, cultural expectations, and what happens after you do everything you were told to do.
+My first step into content creation. I've spent years developing ideas about ambition, motherhood, money, and identity. Now I'm learning to share them publicly — building the muscle of clear articulation.
 
-## Learning
+## Financial education
 
-- **Personal finance**: I started investing a few years ago and am now studying how wealth actually works — systems, opportunities, and the gap between "working hard" and financial independence
-- **Nervous system regulation**: Understanding how my body holds stress, and how I can model something healthier for my children
+I started investing a few years ago. Now I'm going deeper: understanding systems, building assets, thinking long-term. The goal is financial independence — not someday, but as an active project.
+
+## Nervous system work
+
+Learning to operate from regulation rather than activation. This isn't self-help — it's infrastructure. Calm is a competitive advantage.
 
 ## Family
 
-Mother of two. This shapes everything — my time, my priorities, my definition of success. I don't want my children to inherit my anxiety. I want them to inherit steadiness and choice.
+Mother of two. They shape my priorities and sharpen my clarity about what actually matters. I'm raising them to be steady, curious, and free to choose their own paths.
 
 ---
 
 ## What's next
 
-- Launch TikTok and Instagram presence
-- Write my first long-form essay: *"After I Did Everything Right"*
-- Build out the themes on this site
-- Connect with others navigating similar questions
+- Launch TikTok and Instagram
+- Publish first essay: *"What Opens Up After the Checklist"*
+- Expand the themes on this site
+- Connect with others building intentionally
 
 ---
 
-*This page is inspired by [Derek Sivers' /now page](https://nownownow.com/about) movement.*
-
+*Inspired by [Derek Sivers' /now page](https://nownownow.com/about) movement.*

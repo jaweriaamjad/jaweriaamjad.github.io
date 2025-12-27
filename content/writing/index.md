@@ -6,26 +6,26 @@ title: Writing
 
 Long-form essays on ambition, motherhood, money, and midlife.
 
-These are not quick takes. They're reflections — written to be read slowly, revisited, and connected to your own experience.
+These aren't hot takes. They're considered reflections — meant to be read slowly, returned to, and connected to your own thinking.
 
 ---
 
 ## By Theme
 
 ### [[themes/after-the-checklist|After the Checklist]]
-What happens when you achieve everything you were supposed to.
+What opens up when you've done what was expected.
 
-### [[themes/ambition-and-anxiety|Ambition & Anxiety]]
-The emotional cost of high achievement.
+### [[themes/ambition-and-anxiety|Ambition & Anxiety]]  
+Upgrading from survival-mode drive to intentional ambition.
 
 ### [[themes/motherhood-with-intention|Motherhood with Intention]]
-What we pass on to our children.
+Raising grounded kids while building an ambitious life.
 
 ### [[themes/money-as-agency|Money as Agency]]
-Financial literacy as freedom.
+Understanding wealth as a tool for freedom.
 
 ### [[themes/midlife-reorientation|Midlife Reorientation]]
-Designing the next chapter intentionally.
+Designing the second act deliberately.
 
 ---
 
@@ -33,13 +33,12 @@ Designing the next chapter intentionally.
 
 *New essays will appear here as I write them.*
 
-🌱 This garden is just beginning. Check back soon, or follow me on [TikTok](https://tiktok.com/@jaweriaamjad) and [Instagram](https://instagram.com/jaweriaamjad) for updates.
+🌱 This garden is just beginning. Follow along on [TikTok](https://tiktok.com/@jaweriaamjad) and [Instagram](https://instagram.com/jaweriaamjad).
 
 ---
 
-## A note on how I write
+## How I write
 
-I write for clarity, not performance. I aim to be honest without being heavy, optimistic without being naive.
+I aim for clarity over cleverness. Honesty without heaviness. Forward motion.
 
-If something resonates — or challenges you — I'd love to hear about it.
-
+If something lands — or makes you think differently — I'd love to hear about it.

@@ -2,29 +2,29 @@
 title: Start Here
 ---
 
-# How to Navigate This Site
+# How to Navigate This Space
 
 Welcome. This is a **digital garden** — a collection of interconnected ideas that grow over time.
 
-Unlike a traditional blog where posts are listed chronologically, this site is structured around **themes** and **connections**. You can read linearly, or you can follow your curiosity through the links.
+Unlike a blog with posts in reverse chronological order, this site is organized around **themes** and **connections**. You can read linearly or follow your curiosity through the links.
 
 ---
 
-## If you're new, begin here
+## New here? Start with these
 
-### Understand the themes
+### The core themes
 
-My writing orbits five core ideas. Start with whichever resonates:
+My thinking orbits five ideas. Pick the one that resonates:
 
-1. **[[themes/after-the-checklist|After the Checklist]]** — For those who did everything "right" and still feel unsettled
-2. **[[themes/ambition-and-anxiety|Ambition & Anxiety]]** — The emotional cost of high achievement
-3. **[[themes/motherhood-with-intention|Motherhood with Intention]]** — What we pass on to our children
-4. **[[themes/money-as-agency|Money as Agency]]** — Financial literacy as liberation
-5. **[[themes/midlife-reorientation|Midlife Reorientation]]** — Designing the next chapter with intention
+1. **[[themes/after-the-checklist|After the Checklist]]** — What becomes possible when you stop proving and start building
+2. **[[themes/ambition-and-anxiety|Ambition & Anxiety]]** — Moving from survival-mode drive to intentional ambition
+3. **[[themes/motherhood-with-intention|Motherhood with Intention]]** — Raising grounded kids while pursuing your own goals
+4. **[[themes/money-as-agency|Money as Agency]]** — Understanding wealth as a tool for freedom
+5. **[[themes/midlife-reorientation|Midlife Reorientation]]** — Designing the next chapter on your terms
 
-### Read my story
+### Learn more about me
 
-→ **[[about|About me]]** — Who I am and why I'm writing this
+→ **[[about|About me]]** — Who I am and what I'm building
 
 ### Explore the writing
 
@@ -34,35 +34,30 @@ My writing orbits five core ideas. Start with whichever resonates:
 
 ## How the graph works
 
-On the right side of each page, you'll see a **graph view**. This shows how ideas connect to each other.
+On the right side of each page, you'll see a **graph view** showing how ideas connect.
 
-- **Click nodes** to navigate to related pages
+- **Click nodes** to navigate
 - **Hover** to see connections
-- **Zoom and pan** to explore the full map
+- **Zoom and pan** to explore
 
-The graph isn't decoration — it's a map of how these ideas relate. Over time, it will grow denser as I add more writing.
+The graph reveals the structure beneath the content. As I add more writing, it becomes richer.
 
 ---
 
-## A note on tone
+## The tone here
 
-I'm not here to:
-- Motivate you with empty optimism
-- Optimize your life into a spreadsheet
-- Perform struggle or success
+What you'll find:
+- Clear thinking about complex topics
+- Honest reflection without performance
+- Forward momentum, not backward processing
+- **Agency, not advice**
 
-I'm here to:
-- Think clearly about complex things
-- Share what I'm learning, honestly
-- Model **agency under constraint**
-
-If that resonates, you're welcome here.
+I'm not here to tell you what to do. I'm here to share how I'm thinking — and invite you to think alongside me.
 
 ---
 
 ## Stay connected
 
-This garden is being planted. New essays and notes will appear over time.
+This garden is growing. New essays and notes appear over time.
 
-For now, pick a theme that calls to you, and begin.
-
+Pick a theme. Start exploring.

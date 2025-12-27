@@ -2,41 +2,34 @@
 title: Welcome
 ---
 
-# Building a life that is ambitious without being anxious
+I'm **Jaweria Amjad** -- researcher, mother, and a woman designing her next chapter with intention.
 
-I'm **Jaweria Amjad** — an AI research engineer, mother of two, and a woman who did everything she was told would lead to success.
-
-I finished my studies. Got married. Had children. Built a career. Earned a PhD from UCL, completed a postdoc at the Gatsby Computational Neuroscience Unit, and now work in industry. 
-
-*And yet.*
-
-Life didn't become simpler or calmer. The checklist was complete, but the questions multiplied.
+I hold a PhD from UCL, completed a postdoc at the Gatsby Computational Neuroscience Unit, and now build AI systems in industry. I've done the checklist. Now I'm doing something more interesting: **choosing what comes next**.
 
 ---
 
-## What you'll find here
+## What this space is about
 
-This is a space for women in midlife who are navigating **career**, **caregiving**, and **ambition** — often all at once. 
+This is where I think out loud about the intersection of **career**, **motherhood**, **money**, and **meaning** — for women who are done following scripts and ready to write their own.
 
-I write about:
+I explore:
 
-- [[themes/after-the-checklist|After the Checklist]] — what happens when you do everything right and still feel unsettled
-- [[themes/ambition-and-anxiety|Ambition & Anxiety]] — imposter syndrome, nervous systems, and redefining worth
-- [[themes/motherhood-with-intention|Motherhood with Intention]] — emotional inheritance and what we model for our children
-- [[themes/money-as-agency|Money as Agency]] — financial literacy as freedom, not hustle
-- [[themes/midlife-reorientation|Midlife Reorientation]] — turning 40 and choosing differently
+- [[themes/after-the-checklist|After the Checklist]] — what opens up when you stop chasing and start choosing
+- [[themes/ambition-and-anxiety|Ambition & Anxiety]] — upgrading from survival mode to intentional drive
+- [[themes/motherhood-with-intention|Motherhood with Intention]] — raising steady kids in an unsteady world
+- [[themes/money-as-agency|Money as Agency]] — building wealth as freedom, not status
+- [[themes/midlife-reorientation|Midlife Reorientation]] — designing the second act deliberately
 
 ---
 
-## The invitation
+## The vibe here
 
-I'm not here to motivate you. I'm not here to optimize your life.
+I'm not here to commiserate. I'm here to **build**.
 
-I'm here to **think clearly**, **speak honestly**, and **share what I'm learning** — in real time.
+Clear thinking. Honest reflection. Forward motion.
 
-If you're a woman who has achieved on paper but feels quietly disoriented, you're in the right place.
+If you're a woman with credentials, responsibilities, and the growing realization that you get to decide what success looks like now — welcome. You're in the right place.
 
 → **[[start-here|Start here]]** if you're new  
-→ **[[about|Learn more about me]]**  
+→ **[[about|More about me]]**  
 → **[[writing/index|Read my writing]]**
-
